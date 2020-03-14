@@ -132,13 +132,6 @@ $ cd mm-wiki
 $ go build ./
 ```
 
-## 支持
-请作者喝杯茶吧！
-
-![wechat](./static/images/preview/wechat_1.png) 
-
-![alipay](./static/images/preview/alipay_2.png)
-
 ## 反馈
 - 官方 QQ 交流群：853467682
 - 如果您喜欢该项目，请 [Star](https://github.com/phachon/mm-wiki/stargazers).
